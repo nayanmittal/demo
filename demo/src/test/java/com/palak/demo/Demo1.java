@@ -10,6 +10,8 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Demo 1 class   ");
+		
+		System.out.println("Demo 2 class   ");
 	}
 
 }
